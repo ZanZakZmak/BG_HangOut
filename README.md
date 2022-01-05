@@ -1,19 +1,18 @@
-# bg_hangout
+# BG_HangOut
+Web aplikacija za povezivanje ljubitelja stolnih igara, kako bi pronašli igraće za igranje.
+funkcijonalnost ocjenjivanja drugih korisnika, te liste za prikaz dostupih igara.
 
-## Project setup
-```
-yarn install
-```
+## Autori i zaduženja
+Žan-Žak Žmak (zzmak@unipu.hr) - samostalan rad, implementacija cjele aplikacije
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+##Javni link na aplikaciju
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Web: (dodat će se kasnije)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##Organizacija
+
+Sveučilište Jurja Dobrile u Puli
+Fakultet informatike u Puli
+Programsko inženjerstvo, ak.god. 2021./2022.
+Mentor: Nikola Tanković (https://fipu.unipu.hr/fipu/nikola.tankovic, nikola.tankovic@unipu.hr)
+
